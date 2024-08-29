@@ -1,0 +1,4 @@
+Pin connection
+1. Flow Meter VCC => Arduino 5 Volt
+2. Flow Meter GND => Arduino GND 
+3. Flow Meter Pulse => Arduino Pin 2
